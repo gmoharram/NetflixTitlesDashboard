@@ -4,6 +4,5 @@ Dashboard of Type and Volume of Netflix Titles added over the years using Tablea
 Dataset was taken from https://www.kaggle.com/shivamb/netflix-shows .
 
 
-<p align='center'>
-  <img src='https://github.com/gmoharram/NetflixTitlesDashboard/tree/main/img/NetflixDashboard.png' />
-</p>
+![Dashboard Screenshot](https://github.com/gmoharram/NetflixTitlesDashboard/tree/main/img/NetflixDashboard.png)
+
